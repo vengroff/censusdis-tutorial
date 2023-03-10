@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "censusdis-intro"
+version = "0.1.0"
+description = ""
+authors = ["vengroff <vengroff@gmail.com>"]
+readme = "README.md"
+packages = [{include = "censusdis_intro"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+censusdis = "^0.10.7"
+jupyterlab = "^3.6.1"
+nbslide = "^0.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
