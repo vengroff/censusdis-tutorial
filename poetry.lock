@@ -179,7 +179,7 @@ css = ["tinycss2 (>=1.1.0,<1.2)"]
 
 [[package]]
 name = "censusdis"
-version = "0.11.0"
+version = "0.12.0"
 description = "US Census utilities for a variety of data loading and mapping purposes."
 category = "main"
 optional = false
@@ -1902,7 +1902,7 @@ testing = ["big-O", "flake8 (<5)", "jaraco.functools", "jaraco.itertools", "more
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "30783a0eb4789e1cc7c26d7a045c0c7868a203cad49712bee48c75ddb86e9864"
+content-hash = "f05ca2914765a1ad99955f60c8aad43d1703a246d173816236ed9bfa015cc779"
 
 [metadata.files]
 adjustText = [
@@ -1985,8 +1985,8 @@ bleach = [
     {file = "bleach-6.0.0.tar.gz", hash = "sha256:1a1a85c1595e07d8db14c5f09f09e6433502c51c595970edc090551f0db99414"},
 ]
 censusdis = [
-    {file = "censusdis-0.11.0-py3-none-any.whl", hash = "sha256:9eabb9fe83daca2d8da8ba8f8a5a0b4a79f7081a8eb04bc69698a1538fd4c746"},
-    {file = "censusdis-0.11.0.tar.gz", hash = "sha256:aa7cd2faee1de8d9db6f4d97962515e7226d2ab6da23db2d25da7cbe8ae27191"},
+    {file = "censusdis-0.12.0-py3-none-any.whl", hash = "sha256:d8e5b624f96e75b144536adb9f55a5a26279ea8530199d09f880774040423917"},
+    {file = "censusdis-0.12.0.tar.gz", hash = "sha256:a4649cc8149bdbafcee526131c10d5ddc8e1d9ca718246322d667621a8ddafa8"},
 ]
 certifi = [
     {file = "certifi-2022.12.7-py3-none-any.whl", hash = "sha256:4ad3232f5e926d6718ec31cfc1fcadfde020920e278684144551c91769c7bc18"},
