@@ -8,10 +8,9 @@ packages = [{include = "censusdis_intro"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-censusdis = "^0.12.1    "
+censusdis = "^0.12.2"
 jupyterlab = "^3.6.1"
 nbslide = "^0.1.1"
-
 
 [build-system]
 requires = ["poetry-core"]
