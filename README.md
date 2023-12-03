@@ -1,10 +1,14 @@
 # censusdis-tutorial
 
-Tutorial presented at [PyData Seattle 2023](https://pydata.org/seattle2023/).
+This tutorial was presented at [PyData Seattle 2023](https://pydata.org/seattle2023/). 
+
+## Video
+
+You can watch the [full video on YouTube](https://www.youtube.com/watch?v=3vyC7ON0Tvg).
 
 ## Quickstart on mybinder.org
 
-*This is the quickest way to get started.*
+*This is the quickest way to get started.* It is also a good way to follow along with the [video](https://www.youtube.com/watch?v=3vyC7ON0Tvg).
 
 Live interactive versions of the tutorial notebooks in this project, hosted on <a href="https://mybinder.org" target="_blank">mybinder.org</a>,
 are available at the following links:
